@@ -1,1 +1,2 @@
-#github-crach-course
+# github-crach-course
+This is a demo repository for practicing Git & Github.
